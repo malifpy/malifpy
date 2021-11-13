@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi! I'm Alif
+
+## Contacts
+
+ - malifputrayasa@gmail.com
 
 <!--
 **malifpy/malifpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
