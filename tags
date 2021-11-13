@@ -9,7 +9,6 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
-Arch Installation	Notes/Arch.md	/^# Arch Installation$/;"	c
 Arch Installation	Notes/others.md	/^## Arch Installation$/;"	s	chapter:Other Notes
 Contacts	README.md	/^## Contacts$/;"	s	chapter:Hi! I'm Alif
 Hi! I'm Alif	README.md	/^# Hi! I'm Alif$/;"	c
